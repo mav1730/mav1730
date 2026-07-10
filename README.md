@@ -1,11 +1,3 @@
-<!-- Profile README for mav1730. Uses HTML pre so ASCII never breaks markdown. -->
-
-<h1 align="center">Hey, I am Yash Mishra</h1>
-<p align="center">
-  Full-stack developer · automation · web products<br/>
-  <a href="mailto:YM151730@GMAIL.COM">YM151730@GMAIL.COM</a> ·
-  <a href="https://github.com/mav1730">@mav1730</a>
-</p>
 
 ---
 
@@ -14,55 +6,63 @@
 <td valign="top" width="58%">
 
 <pre>
-%%%:        ..:::. ::. ..     *%%%%%%%%%%%%%%%%###%%
-%#:        ..      .          .*##%%%%%%%%%%%%%%%%%%
-=.            .:......:.:      ::*@%%%%%%%%%%%%%%%%%
-                ..       .:..:.  %@%%%@@@@%%%%%%%%%%
--          .:         ..=*==+*: .#%%@@@@@@@@%%%%@@@@
-.             .  . .-**#%##%@%+ =@%@@@@@@@@@@@@@%*#%
-.  . .   .:  ++=+***#%@@%%@@%%#:*%%@@@@@@@%%#**#*=+=
-+ :.   :+**:.+%@@@@@@%%%@@%%%%%=#%%%@@@@%@*=-=+==++*
-+ .   .=*#%##%%%%%%%%%%%%%%%%%%+*@@@%%@@%%*==--=+==*
-#      -#%%@@@@@@@@@@@@@@@@@@@%#*%%%@@@@%%#++=::-.  
-%. .. :#%@@%##*******#%%#++=-:..   .=%%@@%#=-:--...:
-%+ ..-###+-:.         :.             +@%#*+==- .  .:
-+=+..:++-.            -#=        :  -@%%***===.  :: 
-%#+:.::*#*            #@@=       . :#%%#*#%#*-.:-::.
-%@#+.**:+%.          =@%%%.   .::=#%@%%*%%%*==-=-:-=
-*%@%.-#%-+-....  ..-*@@@@@@- :==-#@%@#*#*+****-+#*#%
-##%@+.+*#*=---:.::.:+**#%#=.  .:=%%%%##+::=##%*#%%%%
-+=**+.:+==-..    .-=:         :.+%%%%@#-.:+###*#+*#%
-%*+*#= -*==+-    :=++*+==-:--*+=%%%%%*:..=%%%= -*=**
-@%##@%  -+++#*+##*#**#%#*#%%@#+%@@@%#*--:=##%##+++==
-%%%%%*.   --=#%@@@%%%####*+%+:=*##%@@@@@%#%#%%%%%#**
-%%%%:  .    .-*#@%%%#*****%+  .  .:=****#%@@@%%@@%%%
-#*+:  .. .     -*%@@@@@@@@*   ....    ....-+*++++#@%
--.   =#-....     -+#%%%%#=.     .    ..  .. .. .:=%@
-     +%#=:.:::.     .:.:.     .      .    . .. .::-=
-.   .:@%%*=-::::..   ...   :  .  . . . .     . ..:  
- .  ..=@%%%#*=::::.:--:   ::  .. . . ..     . .     
- .. .: *%%%%#%+==-===-   .:. .::  ..  .    . ..    .
+*********************#+:.... ..::::::.:.  :+**************
+*********************=.     .:.....:....   .+*************
+#*******************:          .::...:... ..:-#***********
+#################*#+.       .: ..  ...:===+- :############
+###################*       ...:::::-+*##*##*:+############
+####################:.....-+-.+*%%%%%@@%%%#*=*#######*==++
+%##################%-.  .-+*#*#%@@@@@@@@@@%#*#%%%###%+==-=
+%%%%%%%%%%%%%%%#%%#%+ ...=*#%%%###**###**+==----*%%%%*=---
+@%%%%%%%%%%%%%%%%%%%*:::=*+=:.       --       . .%%*++=-..
+*****#######%%##**#%*+::-=+-         +%=     ::.*@%+**+=::
+**++++++++*******++*#%=:+=+*.       -@@@=..::-+%@%*###==-=
+*++++###+-=**++**==+*%%:=*=+---::::+##%%#-.:-=@@%**=-+*#+*
+*##*=+++=-=***++++=+++*=.=+=-:. .:--:.::.. ::+#%%#=:-*#*+*
+#%%%%%#*******##*#*##++#-.===+::==****+==+*+*%%%#=::=#%+-=
+%%***=#**##%%%%%%%@%%%%%=..--=*#%###***++#==**#%%%%##%#%%#
+#*+=-=*=+####**+**####*. ::...:=*%%##****: :.::-++++*#%##%
+#@@@##%***#####**#*+-:.:+=:::.  .=*###**-  .::....:..:--:-
++****++++**###*=--::: .:*#=----:.  .:::. .......:::::..:.:
+*******##%%#+-:::::::..:-%#*+=----::--. .-.::.::.::::.::::
+%%%%%%%%%*=:.::::::::: ::=@@##*+--==-. .:..:-..:.::..:.::.
+######%*=::::::::::::-..-:=%@@@@#+=.  ....::-..:. ...: ..:
+######*-:::::::::::::-: .. .+%@@@@+ .::::::--..:. . :.....
+#*****--:::::::.:::::--::... .=#@%.::--::.:-:.:..  .. . . 
+*****=:::::::::.:::::----:::..  ==.:---::.:-:::.. .:...   
+*****-:::::.....:::::--:::::::::..:---:::.::::.:. :. .    
+*++++-:::::: ..:::::::::::::::::-::::::::.::..:. ::...    
 </pre>
 
 </td>
 <td valign="top" width="42%">
 
 <pre>
-mav1730@github
-----------------------------
-OS           : Windows 11
+yash@mav1730
+------------------------------------
+OS           : Windows 11, WSL2 (Ubuntu)
 Host         : Mumbai, India
 Uptime       : Shipping since 2024
 Shell        : PowerShell / bash
 IDE          : VS Code, Cursor
-Languages    : JavaScript, HTML, CSS
-Stack        : Node, Express, Prisma
+------------------------------------
+Lang.Code    : JavaScript, TypeScript
+Lang.Web     : HTML, CSS, SQL
+Lang.Real    : English, Hindi
+------------------------------------
+Stack        : Node.js, Express, Prisma
 Database     : PostgreSQL
-Automation   : n8n, Gemini API
-Focus        : Full-stack + pipelines
-Hobbies      : Tools, perf, products
-Email        : YM151730@GMAIL.COM
+AI/Automation: n8n, Gemini, OpenAI,
+               ElevenLabs
+Focus        : Backend + AI-native
+               pipelines, agents, RAG
+------------------------------------
+Email        : YM151730@gmail.com
 GitHub       : github.com/mav1730
+LinkedIn     : linkedin.com/in/EDIT-ME
+------------------------------------
+Repos        : 6      Stars    : 2
+Followers    : 1      Since    : Oct 2024
 </pre>
 
 </td>
@@ -73,7 +73,7 @@ GitHub       : github.com/mav1730
 
 ## About me
 
-Full-stack developer building automation tools and web products. I work with **Node.js**, **JavaScript**, **n8n**, and modern APIs — focused on systems that actually run (scrapers, audits, email pipelines), not just demos.
+Backend developer building AI-native automation — LLM-powered pipelines, agents, and tool-calling on top of a real backend stack. I work with **Node.js**, **TypeScript**, **PostgreSQL**, **Prisma**, and **n8n**, focused on systems that actually run (audits, lead pipelines, content automation), not just demos.
 
 ---
 
@@ -94,8 +94,8 @@ Automated lead pipeline for web performance consulting:
 
 | Repo | Description |
 |------|-------------|
-| [learning-web-dev](https://github.com/mav1730/learning-web-dev) | HTML, CSS, and JavaScript practice |
 | [student-management-app](https://github.com/mav1730/student-management-app) | Student management app |
+| [learning-web-dev](https://github.com/mav1730/learning-web-dev) | HTML, CSS, and JavaScript practice |
 | [Productivity-hub-](https://github.com/mav1730/Productivity-hub-) | Archived prototype |
 | [3rdsem](https://github.com/mav1730/3rdsem) | Archived early coursework |
 
@@ -103,11 +103,11 @@ Automated lead pipeline for web performance consulting:
 
 ## Tech stack
 
-**Languages:** JavaScript · HTML · CSS
+**Languages:** JavaScript · TypeScript · HTML · CSS · SQL
 
 **Backend:** Node.js · Express · Prisma · PostgreSQL
 
-**Automation / AI:** n8n · Gemini API · Gmail · PageSpeed Insights
+**AI / Automation:** n8n · Gemini API · OpenAI · ElevenLabs · Gmail · PageSpeed Insights
 
 **Tools:** Git · GitHub · VS Code
 
@@ -125,6 +125,7 @@ Automated lead pipeline for web performance consulting:
 
 - **Email:** [YM151730@GMAIL.COM](mailto:YM151730@GMAIL.COM)
 - **GitHub:** [@mav1730](https://github.com/mav1730)
+- **LinkedIn:** _add your link here_
 
 ---
 
