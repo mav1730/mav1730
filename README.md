@@ -1,9 +1,6 @@
-<!--
-  Paste into: https://github.com/mav1730/mav1730 -> README.md -> Edit -> Commit
-  Face ASCII generated from: WhatsApp Image 2026-07-10 at 11.04.33 PM.jpeg
--->
+<!-- Profile README for mav1730. Uses HTML pre so ASCII never breaks markdown. -->
 
-<h1 align="center">Hey, I'm Yash Mishra</h1>
+<h1 align="center">Hey, I am Yash Mishra</h1>
 <p align="center">
   Full-stack developer · automation · web products<br/>
   <a href="mailto:YM151730@GMAIL.COM">YM151730@GMAIL.COM</a> ·
@@ -14,47 +11,43 @@
 
 <table>
 <tr>
-<td valign="top">
+<td valign="top" width="58%">
 
-`	ext
-ddk#}`.. .'I>-{i,]<^l>`` lwhkkkbbbbbdddppdddbb
-baa\.''. .:i'.'."l. '.."^ )kdhkhhhhhkkbbbkkkhh
-hp} . '.....`l<il<>~~_^   l(Y#haaaaaahhhhaaaaa
-#c ' .'     ':I!,:`,'^;!;!,.QMao****ooooo**##W
-Mv;... ...'<'.,`.'.^"1v\tul.JW***####*##M&&%%a
-WL,   . `.,l.,'' "|cCqOQ&h-l######MM#W88WbWMwp
-%Y  ^"^  :,.)|]ftrq&B&8$8hx}%MMMWWWWB*d#hucrun
-%#lll,"`1z1,vd#B@B&@$$$@8kCzB&&&&&%M0rxzuYzn/f
-%%?i` ')CqOtQB$$@$$$@@@@$MCzB&8%BB@#\)rcvvC0[r
-BB-' '![C*@@$$@@@@@@@$$$$&MO$$$@@@@MCc[-n]~j,_
-@$(`,l tkW$$$$$$$$$$$@**bOUunxm$$@$8crf)~, ^;l
-@$J <"{qbMbYx1]---}cc1>>`      x8@WwY{!--;]f~<
-B&Z{;+QQU[,        "?      .;, v%WJCjv) .;I!Ii
-k*tU_"[z(i    .'...-8C".  .'_'`&$#COCv\ll}?";>
-MWB0~[|t$U."' .'.  J$$]    .i~U$@qm8aU]+/_],1x
-JOa8c+pfnq'       i%BBq;"i}}xM$Bow*hOtrtj}fQQL
-1nd$k!chrx_!>iI!>v8$$$$O"]f(d$BWOZczwwQfbpa&oo
-Zqp#$)[CZC)))~~-l]nz0*U<. i{h88awx+)0hkw*ahowm
-\crYLtljrt-!, "i\t!  " ` ^+\h8B@d[ifqdmOLYbowZ
-ZopzCmI-Ytn/' ^!fUCUrf][|Qxp@B@k)i<w8W[iYzmXxL
-$@8pb@t |JvwJJbwqZm#pYp#BmQ&B%ow|[?QhWdJnvjxn)
-%&B$B%/` +/rw#$B**okppCmQ{Ooo%@@$$bha#&%#bzw*w
-@8#W*> i:.^<xO#%odwLJYJm!:lI~)Z#kh&$@%W%$%#W*&
-pqdq\.'!l;. ^_C8$B&&W&%1 ">l>:lIi+~/w*dpmM$%M#
-#C1``iJ|I<i"  ,fp%$%8hx'  ^!I:;;_l;I!~>i-c@BBW
-[!" ,<km{>-]<"  `-|((~  .`I;:":!;;l!Ii>![{nkB$
->!l "lwMZf[?[?>:^."li, ,l^i^;^lIIl;;,II;~-I_vX
->il'^!r$*dOu]--+>>]{+.`];^<,I:l:>II:`!;iI!,l;;
-<!!;.~Id@#dpL)1{{|f[' ~}`;_I"!I^~l;,;I!i^";l,<
-~l~> <>-$$B*Wqjfrt<' ^<!.i_<.!l.iI""!`>;"':;!<
-~;++."?Ic@$$$$acr<   `"^:<_<'!I .^.":.;:l^:!>l
-<I_-:.i-,t8@@@$&JI ^l<_~l~?>'lI. ' I`."::^,::l
-`
+<pre>
+%%%:        ..:::. ::. ..     *%%%%%%%%%%%%%%%%###%%
+%#:        ..      .          .*##%%%%%%%%%%%%%%%%%%
+=.            .:......:.:      ::*@%%%%%%%%%%%%%%%%%
+                ..       .:..:.  %@%%%@@@@%%%%%%%%%%
+-          .:         ..=*==+*: .#%%@@@@@@@@%%%%@@@@
+.             .  . .-**#%##%@%+ =@%@@@@@@@@@@@@@%*#%
+.  . .   .:  ++=+***#%@@%%@@%%#:*%%@@@@@@@%%#**#*=+=
++ :.   :+**:.+%@@@@@@%%%@@%%%%%=#%%%@@@@%@*=-=+==++*
++ .   .=*#%##%%%%%%%%%%%%%%%%%%+*@@@%%@@%%*==--=+==*
+#      -#%%@@@@@@@@@@@@@@@@@@@%#*%%%@@@@%%#++=::-.  
+%. .. :#%@@%##*******#%%#++=-:..   .=%%@@%#=-:--...:
+%+ ..-###+-:.         :.             +@%#*+==- .  .:
++=+..:++-.            -#=        :  -@%%***===.  :: 
+%#+:.::*#*            #@@=       . :#%%#*#%#*-.:-::.
+%@#+.**:+%.          =@%%%.   .::=#%@%%*%%%*==-=-:-=
+*%@%.-#%-+-....  ..-*@@@@@@- :==-#@%@#*#*+****-+#*#%
+##%@+.+*#*=---:.::.:+**#%#=.  .:=%%%%##+::=##%*#%%%%
++=**+.:+==-..    .-=:         :.+%%%%@#-.:+###*#+*#%
+%*+*#= -*==+-    :=++*+==-:--*+=%%%%%*:..=%%%= -*=**
+@%##@%  -+++#*+##*#**#%#*#%%@#+%@@@%#*--:=##%##+++==
+%%%%%*.   --=#%@@@%%%####*+%+:=*##%@@@@@%#%#%%%%%#**
+%%%%:  .    .-*#@%%%#*****%+  .  .:=****#%@@@%%@@%%%
+#*+:  .. .     -*%@@@@@@@@*   ....    ....-+*++++#@%
+-.   =#-....     -+#%%%%#=.     .    ..  .. .. .:=%@
+     +%#=:.:::.     .:.:.     .      .    . .. .::-=
+.   .:@%%*=-::::..   ...   :  .  . . . .     . ..:  
+ .  ..=@%%%#*=::::.:--:   ::  .. . . ..     . .     
+ .. .: *%%%%#%+==-===-   .:. .::  ..  .    . ..    .
+</pre>
 
 </td>
-<td valign="top">
+<td valign="top" width="42%">
 
-`	ext
+<pre>
 mav1730@github
 ----------------------------
 OS           : Windows 11
@@ -70,7 +63,7 @@ Focus        : Full-stack + pipelines
 Hobbies      : Tools, perf, products
 Email        : YM151730@GMAIL.COM
 GitHub       : github.com/mav1730
-`
+</pre>
 
 </td>
 </tr>
@@ -90,9 +83,9 @@ Full-stack developer building automation tools and web products. I work with **N
 
 Automated lead pipeline for web performance consulting:
 
-- Scrapes directory listings  
-- Audits sites with PageSpeed Insights  
-- Generates Gemini cold-email pitches  
+- Scrapes directory listings
+- Audits sites with PageSpeed Insights
+- Generates Gemini cold-email pitches
 - Creates Gmail drafts via **n8n**
 
 ---
@@ -110,20 +103,19 @@ Automated lead pipeline for web performance consulting:
 
 ## Tech stack
 
-**Languages:** JavaScript HTML CSS  
+**Languages:** JavaScript · HTML · CSS
 
-**Backend:** Node.js Express Prisma PostgreSQL  
+**Backend:** Node.js · Express · Prisma · PostgreSQL
 
-**Automation / AI:** 
-8n Gemini API Gmail PageSpeed Insights  
+**Automation / AI:** n8n · Gemini API · Gmail · PageSpeed Insights
 
-**Tools:** Git GitHub VS Code
+**Tools:** Git · GitHub · VS Code
 
 ---
 
 ## GitHub stats
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=mav1730&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Yash GitHub stats](https://github-readme-stats.vercel.app/api?username=mav1730&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mav1730&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 ![GitHub streak](https://streak-stats.demolab.com/?user=mav1730&theme=tokyonight&hide_border=true)
 
@@ -131,8 +123,8 @@ Automated lead pipeline for web performance consulting:
 
 ## Connect
 
-- **Email:** [YM151730@GMAIL.COM](mailto:YM151730@GMAIL.COM)  
-- **GitHub:** [@mav1730](https://github.com/mav1730)  
+- **Email:** [YM151730@GMAIL.COM](mailto:YM151730@GMAIL.COM)
+- **GitHub:** [@mav1730](https://github.com/mav1730)
 
 ---
 
