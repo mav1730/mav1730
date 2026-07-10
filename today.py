@@ -10,8 +10,22 @@ import hashlib
 # Account permissions: read:Followers, read:Starring, read:Watching
 # Repository permissions: read:Commit statuses, read:Contents, read:Issues, read:Metadata, read:Pull Requests
 # Issues and pull requests permissions not needed at the moment, but may be used in the future
-HEADERS = {'authorization': 'token '+ os.environ['ACCESS_TOKEN']}
-USER_NAME = os.environ['USER_NAME'] # 'Andrew6rant'
+def _require_env(name):
+    value = os.environ.get(name)
+    if not value:
+        raise SystemExit(
+            f"\nERROR: Missing secret/env var '{name}'.\n"
+            f"Fix: repo Settings -> Secrets and variables -> Actions\n"
+            f"Add repository secrets:\n"
+            f"  ACCESS_TOKEN = your fine-grained PAT\n"
+            f"  USER_NAME    = mav1730\n"
+            f"Then re-run the workflow.\n"
+        )
+    return value
+
+
+HEADERS = {'authorization': 'token ' + _require_env('ACCESS_TOKEN')}
+USER_NAME = _require_env('USER_NAME')  # e.g. 'mav1730'
 QUERY_COUNT = {'user_getter': 0, 'follower_getter': 0, 'graph_repos_stars': 0, 'recursive_loc': 0, 'graph_commits': 0, 'loc_query': 0}
 
 
